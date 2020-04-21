@@ -1202,12 +1202,12 @@
 
 {
     "id": 101,
-    "name": "",
-    "race": "",
-    "gender": "",
-    "residence": "",
-    "occupation": "",
-    "family": "",
+    "name": "Buddy",
+    "race": "Pegasus",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "unknown",
+    "family": "unknown",
     "image": "insertImage",
     "next": 102,
     "previous": 100
