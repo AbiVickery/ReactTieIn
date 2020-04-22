@@ -2647,6 +2647,19 @@
 
 {
     "id": 221,
+    "name": "Giselle",
+    "race": "Griffon",
+    "gender": "Female",
+    "residence": "Griffonstone",
+    "occupation": "unknown",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 222,
+    "previous": 220
+}
+
+{
+    "id": 0,
     "name": "",
     "race": "",
     "gender": "",
@@ -2654,6 +2667,6 @@
     "occupation": "",
     "family": "",
     "image": "insertImage",
-    "next": 222,
-    "previous": 220
+    "next": 0,
+    "previous": 0
 }
