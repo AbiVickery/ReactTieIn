@@ -3084,18 +3084,67 @@
 
 {
     "id": 247,
-    "name": "",
-    "race": "",
-    "gender": "",
-    "residence": "",
-    "occupation": "",
-    "family": "",
+    "name": "Limestone Pie",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Pie Family Rock Farm, Rockville, Western Equestria",
+    "occupation": "unknown",
+    "family": "Pie Family",
     "image": "insertImage",
     "next": 248,
     "previous": 246
 }
 {
-    "id": 0,
+    "id": 248,
+    "name": "Marble Pie",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Pie Family Rock Farm, Rockville, Western Equestria",
+    "occupation": "unknown",
+    "family": "Pie Family",
+    "image": "insertImage",
+    "next": 249,
+    "previous": 247
+}
+{
+    "id": 249,
+    "name": "Igneous Rock Pie",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Pie Family Rock Farm, Rockville, Western Equestria",
+    "occupation": "Fock Farmer",
+    "family": "Pie Family",
+    "image": "insertImage",
+    "next": 250,
+    "previous": 248
+}
+{
+    "id": 250,
+    "name": "Cloudy Quartz",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Pie Family Rock Farm, Rockville, Western Equestria",
+    "occupation": "Rock Farmer",
+    "family": "Pie Family",
+    "image": "insertImage",
+    "next": 251,
+    "previous": 249
+}
+{
+    "id": 251,
+    "name": "Maud Pid (Maudileena Daisy Pie)",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Crystal cave near Ponyville",
+    "occupation": "Geologist, Stand-up Comedian",
+    "family": "Pie Family",
+    "image": "insertImage",
+    "next": 252,
+    "previous": 250
+}
+
+{
+    "id": 252,
     "name": "",
     "race": "",
     "gender": "",
@@ -3103,6 +3152,6 @@
     "occupation": "",
     "family": "",
     "image": "insertImage",
-    "next": 0,
-    "previous": 0
+    "next": 253,
+    "previous": 251
 }
