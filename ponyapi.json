@@ -3230,14 +3230,74 @@
 }
 
 {
-    "id": 0,
-    "name": "",
-    "race": "",
-    "gender": "",
-    "residence": "",
-    "occupation": "",
-    "family": "",
+    "id": 259,
+    "name": "Gallus",
+    "race": "Griffon",
+    "gender": "Male",
+    "residence": "Griffonstone",
+    "occupation": "Student",
+    "family": "unknown",
     "image": "insertImage",
-    "next": 0,
-    "previous": 0
+    "next": 260,
+    "previous": 258
+}
+{
+    "id": 260,
+    "name": "Silverstream (Silver Stream)",
+    "race": "Hippogriff, Seapony",
+    "gender": "Female",
+    "residence": "Seaquestria",
+    "occupation": "Student",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 261,
+    "previous": 259
+}
+{
+    "id": 261,
+    "name": "Smolder",
+    "race": "Dragon",
+    "gender": "Female",
+    "residence": "Dragon Lands",
+    "occupation": "Student",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 262,
+    "previous": 260
+}
+{
+    "id": 262,
+    "name": "Yona (Yona Yak)",
+    "race": "Yak",
+    "gender": "Female",
+    "residence": "Yakyakistan",
+    "occupation": "Student",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 263,
+    "previous": 261
+}
+{
+    "id": 263,
+    "name": "Sandbar",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Ponyville",
+    "occupation": "Student",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 264,
+    "previous": 262
+}
+{
+    "id": 264,
+    "name": "Ocellus",
+    "race": "Changeling",
+    "gender": "Female",
+    "residence": "Changeling Kingdom",
+    "occupation": "Student",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 265,
+    "previous": 263
 }
