@@ -2951,6 +2951,139 @@
 
 {
     "id": 236,
+    "name": "Granny Smith",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Sweet Apple Acres",
+    "occupation": "Elderly",
+    "family": "Apple Family",
+    "image": "insertImage",
+    "next": 237,
+    "previous": 235
+}
+{
+    "id": 237,
+    "name": "Big McIntosh (Big Mac)",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Sweet Apple Acres",
+    "occupation": "Farmer, Pony Tones Bass Singer",
+    "family": "Apple Family",
+    "image": "insertImage",
+    "next": 238,
+    "previous": 236
+}
+{
+    "id": 238,
+    "name": "Braeburn",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Appleloosa",
+    "occupation": "Farmer",
+    "family": "Apple Family",
+    "image": "insertImage",
+    "next": 239,
+    "previous": 237
+}
+{
+    "id": 239,
+    "name": "Aunt Orange",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Manehattan",
+    "occupation": "unknown",
+    "family": "Apple Family",
+    "image": "insertImage",
+    "next": 240,
+    "previous": 238
+}
+{
+    "id": 240,
+    "name": "Hayseed Turnip Truck",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "'Many Odd Jobs'",
+    "family": "Apple Family",
+    "image": "insertImage",
+    "next": 241,
+    "previous": 239
+}
+{
+    "id": 241,
+    "name": "Apple Strudel",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "Elderly",
+    "family": "Apple Family",
+    "image": "insertImage",
+    "next": 242,
+    "previous": 240
+}
+{
+    "id": 242,
+    "name": "Auntie Applesauce",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Equestria",
+    "occupation": "Elderly",
+    "family": "Apple Family",
+    "image": "insertImage",
+    "next": 243,
+    "previous": 241
+}
+{
+    "id": 243,
+    "name": "Apple Rose",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Silver Stable Retirement Community",
+    "occupation": "Elderly",
+    "family": "Apple Family",
+    "image": "insertImage",
+    "next": 244,
+    "previous": 242
+}
+{
+    "id": 244,
+    "name": "Goldie Delicious",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "A cabin not far from Ponyville",
+    "occupation": "Elderly, Historian",
+    "family": "Apple Family",
+    "image": "insertImage",
+    "next": 245,
+    "previous": 243
+}
+{
+    "id": 245,
+    "name": "Bright Mac (Bright Macintosh)",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Sweet Apple Acres",
+    "occupation": "unknown",
+    "family": "Apple Family",
+    "image": "insertImage",
+    "next": 246,
+    "previous": 244
+}
+{
+    "id": 246,
+    "name": "Pear Butter (Buttercup)",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Sweet Apple Acres",
+    "occupation": "unknown",
+    "family": "Apple Family",
+    "image": "insertImage",
+    "next": 247,
+    "previous": 245
+}
+
+{
+    "id": 247,
     "name": "",
     "race": "",
     "gender": "",
@@ -2958,6 +3091,18 @@
     "occupation": "",
     "family": "",
     "image": "insertImage",
-    "next": 237,
-    "previous": 235
+    "next": 248,
+    "previous": 246
+}
+{
+    "id": 0,
+    "name": "",
+    "race": "",
+    "gender": "",
+    "residence": "",
+    "occupation": "",
+    "family": "",
+    "image": "insertImage",
+    "next": 0,
+    "previous": 0
 }
