@@ -3145,6 +3145,43 @@
 
 {
     "id": 252,
+    "name": "Mr. Shy",
+    "race": "Pegasus",
+    "gender": "Male",
+    "residence": "Cloudsdale",
+    "occupation": "Weather Factory Worker (formerly)",
+    "family": "Shy Family",
+    "image": "insertImage",
+    "next": 253,
+    "previous": 251
+}
+{
+    "id": 253,
+    "name": "Mrs. Shy",
+    "race": "Pegasus",
+    "gender": "Female",
+    "residence": "Cloudsdale",
+    "occupation": "unknown",
+    "family": "Shy Family",
+    "image": "insertImage",
+    "next": 254,
+    "previous": 252
+}
+{
+    "id": 254,
+    "name": "Zephyr Breeze",
+    "race": "Pegasus",
+    "gender": "Male",
+    "residence": "Cloudsdale",
+    "occupation": "Mane Therapist",
+    "family": "Shy Family",
+    "image": "insertImage",
+    "next": 255,
+    "previous": 253
+}
+
+{
+    "id": 255,
     "name": "",
     "race": "",
     "gender": "",
@@ -3152,6 +3189,6 @@
     "occupation": "",
     "family": "",
     "image": "insertImage",
-    "next": 253,
-    "previous": 251
+    "next": 256,
+    "previous": 254
 }
