@@ -3182,6 +3182,55 @@
 
 {
     "id": 255,
+    "name": "Mr. Carrot Cake",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Ponyville",
+    "occupation": "Confectioner & Baker",
+    "family": "Cake Family",
+    "image": "insertImage",
+    "next": 256,
+    "previous": 254
+}
+{
+    "id": 256,
+    "name": "Mrs. Cup Cake (Chiffon Swirl)",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Ponyville",
+    "occupation": "Confectioner & Baker",
+    "family": "Cake Family",
+    "image": "insertImage",
+    "next": 257,
+    "previous": 255
+}
+{
+    "id": 257,
+    "name": "Pound Cake",
+    "race": "Pegasus",
+    "gender": "Male",
+    "residence": "Sugarcube Corner, Ponyville",
+    "occupation": "unknown",
+    "family": "Cake Family",
+    "image": "insertImage",
+    "next": 258,
+    "previous": 255
+}
+{
+    "id": 258,
+    "name": "Pumpkin Cake",
+    "race": "Unicorn",
+    "gender": "Female",
+    "residence": "Sugarcube Corner, Ponyville",
+    "occupation": "unknown",
+    "family": "Cake Family",
+    "image": "insertImage",
+    "next": 259,
+    "previous": 257
+}
+
+{
+    "id": 0,
     "name": "",
     "race": "",
     "gender": "",
@@ -3189,6 +3238,6 @@
     "occupation": "",
     "family": "",
     "image": "insertImage",
-    "next": 256,
-    "previous": 254
+    "next": 0,
+    "previous": 0
 }
