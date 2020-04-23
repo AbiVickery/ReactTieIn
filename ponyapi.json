@@ -3301,3 +3301,53 @@
     "next": 265,
     "previous": 263
 }
+
+{
+    "id": 265,
+    "name": "Diamond Tiara (Diamond Dazzle Tiara)",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Ponyville",
+    "occupation": "Student",
+    "family": "Rich Family",
+    "image": "insertImage",
+    "next": 266,
+    "previous": 264
+}
+{
+    "id": 266,
+    "name": "Filthy Rich (Berry Rich)",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Ponyville",
+    "occupation": "Buisnesspony",
+    "family": "Rich Family",
+    "image": "insertImage",
+    "next": 267,
+    "previous": 265
+}
+{
+    "id": 267,
+    "name": "Spoiled Rich (Spoiled Milk)",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Ponyville",
+    "occupation": "Head of the school board",
+    "family": "Rich Family",
+    "image": "insertImage",
+    "next": 268,
+    "previous": 266
+}
+
+{
+    "id": 0,
+    "name": "",
+    "race": "",
+    "gender": "",
+    "residence": "",
+    "occupation": "",
+    "family": "",
+    "image": "insertImage",
+    "next": 0,
+    "previous": 0
+}
