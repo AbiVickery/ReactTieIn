@@ -3616,3 +3616,172 @@
     "next": 291,
     "previous": 289
 }
+
+{
+    "id": 291,
+    "name": "Gilda (Gilda the Griffon)",
+    "race": "Griffon",
+    "gender": "Female",
+    "residence": "Griffonstone",
+    "occupation": "Scone baker",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 292,
+    "previous": 290
+}
+{
+    "id": 292,
+    "name": "Trixie (Trixie Lulamoon)",
+    "race": "Unicorn",
+    "gender": "Female",
+    "residence": "Equestria",
+    "occupation": "Traveling magician",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 293,
+    "previous": 291
+}
+{
+    "id": 293,
+    "name": "Discord",
+    "race": "Draconequus",
+    "gender": "Male",
+    "residence": "A house in Chaosville",
+    "occupation": "various, unknown",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 294,
+    "previous": 292
+}
+{
+    "id": 294,
+    "name": "Ahuizotl",
+    "race": "Ahuizotl",
+    "gender": "Male",
+    "residence": "Tenochtitlan Basin",
+    "occupation": "Guardian of Tenochtitlan Basin",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 295,
+    "previous": 293
+}
+{
+    "id": 295,
+    "name": "Garble",
+    "race": "Dragon",
+    "gender": "Male",
+    "residence": "Dragon Lands",
+    "occupation": "unknown",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 296,
+    "previous": 294
+}
+{
+    "id": 296,
+    "name": "Sunset Shimmer",
+    "race": "Unicorn",
+    "gender": "Female",
+    "residence": "Canterlot(formerly)",
+    "occupation": "various",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 297,
+    "previous": 295
+}
+{
+    "id": 297,
+    "name": "Dr. Caballeron",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "unknown",
+    "occupation": "Archaeologist and trader, History professor",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 298,
+    "previous": 296
+}
+{
+    "id": 298,
+    "name": "Withers",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "Caballeron's Hench Pony",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 299,
+    "previous": 297
+}
+{
+    "id": 299,
+    "name": "Rogue",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "Caballeron's Hench Pony",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 300,
+    "previous": 298
+}
+{
+    "id": 300,
+    "name": "Biff",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "Caballeron's Hench Pony",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 301,
+    "previous": 299
+}
+{
+    "id": 301,
+    "name": "Pickpocket",
+    "race": "unknown",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "Caballeron's Hench Pony",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 302,
+    "previous": 300
+}
+{
+    "id": 302,
+    "name": "Rosy Thorn",
+    "race": "Pegasus",
+    "gender": "Female",
+    "residence": "Equestria",
+    "occupation": "Caballeron's Hench Pony",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 303,
+    "previous": 301
+}
+{
+    "id": 303,
+    "name": "Starlight Glimmer",
+    "race": "Unicorn",
+    "gender": "Female",
+    "residence": "Castle of Friendship, Ponyville",
+    "occupation": "various",
+    "family": "Starlight's Family",
+    "image": "insertImage",
+    "next": 304,
+    "previous": 302
+}
+{
+    "id": 0,
+    "name": "",
+    "race": "",
+    "gender": "",
+    "residence": "",
+    "occupation": "",
+    "family": "",
+    "image": "insertImage",
+    "next": 0,
+    "previous": 0
+}
