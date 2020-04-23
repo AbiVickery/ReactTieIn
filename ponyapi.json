@@ -2805,7 +2805,152 @@
 }
 
 {
-    "id": 0,
+    "id": 224,
+    "name": "Celestia",
+    "race": "Alicorn",
+    "gender": "Female",
+    "residence": "Canterlot",
+    "occupation": "Royalty",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 225,
+    "previous": 223
+}
+{
+    "id": 225,
+    "name": "Luna",
+    "race": "Alicorn",
+    "gender": "Female",
+    "residence": "Canterlot",
+    "occupation": "Royalty",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 226,
+    "previous": 224
+}
+{
+    "id": 226,
+    "name": "Blueblood (Vladimir)",
+    "race": "Unicorn",
+    "gender": "Male",
+    "residence": "Canterlot",
+    "occupation": "Royalty",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 227,
+    "previous": 225
+}
+{
+    "id": 227,
+    "name": "Shining Armor",
+    "race": "Unicorn",
+    "gender": "Male",
+    "residence": "Crystal Empire",
+    "occupation": "Captain of Royal Guard, Royalty",
+    "family": "Twilight's Family",
+    "image": "insertImage",
+    "next": 228,
+    "previous": 226
+}
+{
+    "id": 228,
+    "name": "Cadance (Princess Mi Amore Cadenza)",
+    "race": "Alicorn",
+    "gender": "Female",
+    "residence": "Crystal Empire",
+    "occupation": "Co-ruler of the Crystal Empire",
+    "family": "Twilight's Family",
+    "image": "insertImage",
+    "next": 229,
+    "previous": 227
+}
+{
+    "id": 229,
+    "name": "Rutherford",
+    "race": "Yak",
+    "gender": "Male",
+    "residence": "Yakyakistan",
+    "occupation": "Prince of Yakyakistan",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 230,
+    "previous": 228
+}
+{
+    "id": 230,
+    "name": "Flurry Heart",
+    "race": "Alicorn",
+    "gender": "Female",
+    "residence": "Crystal Empire",
+    "occupation": "Foal",
+    "family": "Twilight's Family",
+    "image": "insertImage",
+    "next": 231,
+    "previous": 229
+}
+{
+    "id": 231,
+    "name": "Ember",
+    "race": "Dragon",
+    "gender": "Female",
+    "residence": "Dragon Lands",
+    "occupation": "Dragon Lord",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 232,
+    "previous": 230
+}
+{
+    "id": 232,
+    "name": "Thorax",
+    "race": "Changeling",
+    "gender": "Male",
+    "residence": "Changeling Kingdom",
+    "occupation": "Leader of the changelings",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 233,
+    "previous": 231
+}
+{
+    "id": 233,
+    "name": "Skystar",
+    "race": "Hippogriff, Seapony",
+    "gender": "Female",
+    "residence": "Seaquestria, Hippogriffia",
+    "occupation": "Princess of Sequestria, Princess of Hippogriffia",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 234,
+    "previous": 232
+}
+{
+    "id": 234,
+    "name": "Novo",
+    "race": "Hippogriff, Seapony",
+    "gender": "Female",
+    "residence": "Seaquestria, Hippogriffia",
+    "occupation": "Ruler of Seaquestria, Ruler of Hippogriffia",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 235,
+    "previous": 233
+}
+{
+    "id": 235,
+    "name": "Amore",
+    "race": "Crystal Pony, Unicorn",
+    "gender": "Female",
+    "residence": "Crystal Empire (formerly)",
+    "occupation": "Ruler of the Crystal Empire (formerly)",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 236,
+    "previous": 234
+}
+
+{
+    "id": 236,
     "name": "",
     "race": "",
     "gender": "",
@@ -2813,6 +2958,6 @@
     "occupation": "",
     "family": "",
     "image": "insertImage",
-    "next": 0,
-    "previous": 0
+    "next": 237,
+    "previous": 235
 }
