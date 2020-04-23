@@ -3510,25 +3510,109 @@
 
 {
     "id": 282,
-    "name": "",
-    "race": "",
-    "gender": "",
-    "residence": "",
-    "occupation": "",
-    "family": "",
+    "name": "Chrysalis",
+    "race": "Changeling",
+    "gender": "Female",
+    "residence": "Changeling Kingdom(formerly)",
+    "occupation": "Queen of the changelings(formerly), antagonist",
+    "family": "unknown",
     "image": "insertImage",
     "next": 283,
     "previous": 281
 }
 {
-    "id": 0,
-    "name": "",
-    "race": "",
-    "gender": "",
-    "residence": "",
-    "occupation": "",
-    "family": "",
+    "id": 283,
+    "name": "Sombra",
+    "race": "Unicorn, Umbrum(formerly)",
+    "gender": "Male",
+    "residence": "Crystal Empire(formerly)",
+    "occupation": "Ruler of the Crystal Empire(formerly), antagonist",
+    "family": "unknown",
     "image": "insertImage",
-    "next": 0,
-    "previous": 0
+    "next": 284,
+    "previous": 282
+}
+{
+    "id": 284,
+    "name": "Tirek",
+    "race": "Centaur",
+    "gender": "Male",
+    "residence": "Tartarus",
+    "occupation": "unknown, antagonist",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 285,
+    "previous": 283
+}
+{
+    "id": 285,
+    "name": "Adagio Dazzle",
+    "race": "Siren",
+    "gender": "Female",
+    "residence": "Equestria(formerly)",
+    "occupation": "unknown, antagonist",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 286,
+    "previous": 284
+}
+{
+    "id": 286,
+    "name": "Aria Blaze",
+    "race": "Siren",
+    "gender": "Female",
+    "residence": "Equestria(formerly)",
+    "occupation": "unknown, antagonist",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 287,
+    "previous": 285
+}
+{
+    "id": 287,
+    "name": "Sonata Dusk",
+    "race": "Siren",
+    "gender": "Female",
+    "residence": "Equestria(formerly)",
+    "occupation": "unknown, antagonist",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 288,
+    "previous": 286
+}
+{
+    "id": 288,
+    "name": "The Storm King",
+    "race": "unknown",
+    "gender": "Male",
+    "residence": "'The lands beyond Equestria', antagonist",
+    "occupation": "Conqueror",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 289,
+    "previous": 287
+}
+{
+    "id": 289,
+    "name": "Cozy Glow",
+    "race": "Pegasus",
+    "gender": "Female",
+    "residence": "Ponyville(formerly), Tartarus",
+    "occupation": "Student(formerly), Foal, antagonist",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 290,
+    "previous": 288
+}
+{
+    "id": 290,
+    "name": "Grogar",
+    "race": "Ram",
+    "gender": "Male",
+    "residence": "Skull-shaped lair",
+    "occupation": "Emperor of Ancient Equestria(formerly)",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 291,
+    "previous": 289
 }
