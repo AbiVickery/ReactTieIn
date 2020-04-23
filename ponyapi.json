@@ -2659,14 +2659,86 @@
 }
 
 {
-    "id": 0,
-    "name": "",
-    "race": "",
-    "gender": "",
-    "residence": "",
-    "occupation": "",
-    "family": "",
+    "id": 222,
+    "name": "Applejack",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Sweet Apple Acres",
+    "occupation": "Farmer",
+    "family": "Apple Family",
     "image": "insertImage",
-    "next": 0,
-    "previous": 0
+    "next": 223,
+    "previous": 221
+}
+{
+    "id": 223,
+    "name": "Fluttershy",
+    "race": "Pegasus",
+    "gender": "Female",
+    "residence": "Outside of Ponyville",
+    "occupation": "Animal Caretaker",
+    "family": "Shy Family",
+    "image": "insertImage",
+    "next": 224,
+    "previous": 222
+}
+{
+    "id": 224,
+    "name": "Pinkie Pie",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Sugarcube Corner",
+    "occupation": "Baker/Caterer/Party Organizer",
+    "family": "Pie/Apple Family",
+    "image": "insertImage",
+    "next": 225,
+    "previous": 223
+}
+{
+    "id": 225,
+    "name": "Rainbow Dash",
+    "race": "Pegasus",
+    "gender": "Female",
+    "residence": "Cloudominium over Ponyville",
+    "occupation": "Wonderbolt",
+    "family": "Dash???",
+    "image": "insertImage",
+    "next": 226,
+    "previous": 224
+}
+{
+    "id": 226,
+    "name": "Rarity",
+    "race": "Unicorn",
+    "gender": "Female",
+    "residence": "Carousel Boutique, Ponyville",
+    "occupation": "Fashion Designer, Shopkeeper, Seamstress",
+    "family": "Rarity's family?",
+    "image": "insertImage",
+    "next": 227,
+    "previous": 225
+}
+{
+    "id": 227,
+    "name": "Spike (the dragon)",
+    "race": "Dragon",
+    "gender": "Male",
+    "residence": "Canterlot",
+    "occupation": "Twilight Sparkle's Assistant",
+    "family": "Twilight Family",
+    "image": "insertImage",
+    "next": 228,
+    "previous": 226
+}
+{
+    "id": 228,
+    "name": "Twilight Sparkle",
+    "race": "Alicorn",
+    "gender": "Female",
+    "residence": "Canterlot",
+    "occupation": "Princess of Friendship, Ruler of Equestria",
+    "family": "Twilight Family",
+    "image": "insertImage",
+    "next": 229,
+    "previous": 227
 }
