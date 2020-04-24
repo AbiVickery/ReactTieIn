@@ -3823,7 +3823,212 @@
 }
 
 {
-    "id": 0,
+    "id": 308,
+    "name": "Shadowbolts",
+    "race": "Pegasus",
+    "gender": "Male(2), Female(1)",
+    "residence": "unknown",
+    "occupation": "Nightmare Moon's 'knights-in-shadowy armor'",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 309,
+    "previous": 307
+}
+{
+    "id": 309,
+    "name": "Hoops",
+    "race": "Pegasus",
+    "gender": "Male",
+    "residence": "Cloudsdale",
+    "occupation": "Weather factory worker",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 310,
+    "previous": 308
+}
+{
+    "id": 310,
+    "name": "Dumb-bell",
+    "race": "Pegasus",
+    "gender": "Male",
+    "residence": "Cloudsdale",
+    "occupation": "Weather factory worker",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 311,
+    "previous": 309
+}
+{
+    "id": 311,
+    "name": "Score",
+    "race": "Pegasus",
+    "gender": "Male",
+    "residence": "Cloudsdale",
+    "occupation": "Weather factory worker",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 312,
+    "previous": 310
+}
+{
+    "id": 312,
+    "name": "Flim",
+    "race": "Unicorn",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "various",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 313,
+    "previous": 311
+}
+{
+    "id": 313,
+    "name": "Flam",
+    "race": "Unicorn",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "various",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 314,
+    "previous": 312
+}
+{
+    "id": 314,
+    "name": "Lightning Dust",
+    "race": "Pegasus",
+    "gender": "Female",
+    "residence": "Equestria",
+    "occupation": "Leader of the Washouts",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 315,
+    "previous": 313
+}
+{
+    "id": 315,
+    "name": "Mane-iac",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Maretropolis",
+    "occupation": "Owner of a hair-care product company(formerly)",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 316,
+    "previous": 314
+}
+{
+    "id": 316,
+    "name": "Neon Brush",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "unknown",
+    "occupation": "Mane-iac's henchpony",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 317,
+    "previous": 315
+}
+{
+    "id": 317,
+    "name": "Quick Trim",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "unknown",
+    "occupation": "Mane-iac's henchpony",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 318,
+    "previous": 316
+}
+{
+    "id": 318,
+    "name": "Comb Over",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "unknown",
+    "occupation": "Mane-iac's henchpony",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 319,
+    "previous": 317
+}
+{
+    "id": 319,
+    "name": "The Unconditioner",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "unknown",
+    "occupation": "Mane-iac's henchpony",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 320,
+    "previous": 318
+}
+{
+    "id": 320,
+    "name": "Blow Dry",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "unknown",
+    "occupation": "Mane-iac's henchpony",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 321,
+    "previous": 319
+}
+{
+    "id": 321,
+    "name": "Suri Polomare",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Manehattan",
+    "occupation": "Fashion designer",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 322,
+    "previous": 320
+}
+{
+    "id": 322,
+    "name": "Wind Rider",
+    "race": "Pegasus",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "Member of the Wonderbolts(formerly)",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 323,
+    "previous": 321
+}
+{
+    "id": 323,
+    "name": "Svengallop",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Manehattan",
+    "occupation": "Coloratura's manager(formerly)",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 324,
+    "previous": 322
+}
+{
+    "id": 324,
+    "name": "Gladmane",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Las Pegasus",
+    "occupation": "Resort manager(until the end of S6E20)",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 325,
+    "previous": 323
+}
+
+{
+    "id": 325,
     "name": "",
     "race": "",
     "gender": "",
@@ -3831,6 +4036,6 @@
     "occupation": "",
     "family": "",
     "image": "insertImage",
-    "next": 0,
-    "previous": 0
+    "next": 326,
+    "previous": 324
 }
