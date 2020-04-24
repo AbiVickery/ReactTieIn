@@ -3774,6 +3774,55 @@
     "previous": 302
 }
 {
+    "id": 304,
+    "name": "Stygian",
+    "race": "Unicorn",
+    "gender": "Male",
+    "residence": "Hollow Shades",
+    "occupation": "Scholar, Strategist, Author",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 305,
+    "previous": 303
+}
+{
+    "id": 305,
+    "name": "Tempest Shadow (Fizzlepop Berrytwist)",
+    "race": "Unicorn(broken horn)",
+    "gender": "Female",
+    "residence": "Unnamed town(formerly)",
+    "occupation": "The Storm King's lieutenant(formerly)",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 306,
+    "previous": 304
+}
+{
+    "id": 306,
+    "name": "Grubber",
+    "race": "Hedgehog",
+    "gender": "Male",
+    "residence": "unknown",
+    "occupation": "Henchman to the Storm King(formerly)",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 307,
+    "previous": 305
+}
+{
+    "id": 307,
+    "name": "Chancellor Neighsay",
+    "race": "Unicorn",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "Head of the Equestria Education Association",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 308,
+    "previous": 306
+}
+
+{
     "id": 0,
     "name": "",
     "race": "",
