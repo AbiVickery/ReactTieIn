@@ -4029,6 +4029,55 @@
 
 {
     "id": 325,
+    "name": "Rover",
+    "race": "Dog(diamond dog)",
+    "gender": "Male",
+    "residence": "Cave Systems, Dimondia",
+    "occupation": "Gem collector",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 326,
+    "previous": 324
+}
+{
+    "id": 326,
+    "name": "Fido",
+    "race": "Dog(diamond dog)",
+    "gender": "Male",
+    "residence": "Cave systems, Dimondia",
+    "occupation": "Gem collector",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 327,
+    "previous": 325
+}
+{
+    "id": 327,
+    "name": "Spot",
+    "race": "Dog(diamond dog)",
+    "gender": "Male",
+    "residence": "Cave systems, Dimondia",
+    "occupation": "Gem collector",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 328,
+    "previous": 326
+}
+{
+    "id": 328,
+    "name": "Sludge",
+    "race": "Dragon",
+    "gender": "Male",
+    "residence": "Dragon Lands",
+    "occupation": "unknown",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 329,
+    "previous": 327
+}
+
+{
+    "id": 329,
     "name": "",
     "race": "",
     "gender": "",
@@ -4036,6 +4085,6 @@
     "occupation": "",
     "family": "",
     "image": "insertImage",
-    "next": 326,
-    "previous": 324
+    "next": 330,
+    "previous": 329
 }
