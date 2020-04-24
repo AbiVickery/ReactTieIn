@@ -4078,6 +4078,126 @@
 
 {
     "id": 329,
+    "name": "Hoity Toity",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Canterlot",
+    "occupation": "Fashion critic",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 330,
+    "previous": 329
+}
+{
+    "id": 330,
+    "name": "Photo Finish",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Equestria",
+    "occupation": "Fashion photographer",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 331,
+    "previous": 329
+}
+{
+    "id": 331,
+    "name": "Sapphire Shores",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Canterlot",
+    "occupation": "Pop star singer",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 332,
+    "previous": 330
+}
+{
+    "id": 332,
+    "name": "Fancy Pants",
+    "race": "Unicorn",
+    "gender": "Male",
+    "residence": "Canterlot",
+    "occupation": "Celebrity",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 333,
+    "previous": 331
+}
+{
+    "id": 333,
+    "name": "Daring Do (A.K. Yearling)",
+    "race": "Pegasus",
+    "gender": "Female",
+    "residence": "A house in the forest north-west of the Galloping Gorge and north-east of Vanhoover, not far from the Fortress of Talacon in Tenochtitlan Basin",
+    "occupation": "Treasure hunter, Author",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 334,
+    "previous": 332
+}
+{
+    "id": 334,
+    "name": "Prim Hemline",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Manehattan",
+    "occupation": "Fashion critic, Fashion Week judge",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 335,
+    "previous": 333
+}
+{
+    "id": 335,
+    "name": "Trenderhoof",
+    "race": "Unicorn",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "Travel writer",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 336,
+    "previous": 334
+}
+{
+    "id": 336,
+    "name": "Coloratura (Countess Coloratura)",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Manehattan",
+    "occupation": "Pop star singer",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 337,
+    "previous": 335
+}
+{
+    "id": 337,
+    "name": "Zesty Gourmand",
+    "race": "Unicorn",
+    "gender": "Female",
+    "residence": "Canterlot",
+    "occupation": "Restaurant critic",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 337,
+    "previous": 336
+}
+{
+    "id": 338,
+    "name": "Songbird Serenade",
+    "race": "Pegasus",
+    "gender": "Female",
+    "residence": "Manehattan",
+    "occupation": "Pop star singer",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 339,
+    "previous": 337
+}
+{
+    "id": 339,
     "name": "",
     "race": "",
     "gender": "",
@@ -4085,6 +4205,6 @@
     "occupation": "",
     "family": "",
     "image": "insertImage",
-    "next": 330,
-    "previous": 329
+    "next": 340,
+    "previous": 338
 }
