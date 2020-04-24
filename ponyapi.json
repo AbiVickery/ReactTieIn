@@ -4369,77 +4369,77 @@
 
 {
     "id": 353,
-    "name": "",
-    "race": "",
-    "gender": "",
-    "residence": "",
-    "occupation": "",
-    "family": "",
+    "name": "Mage Meadowbrook",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Hayseed Swamp",
+    "occupation": "Sorceress, Healer",
+    "family": "unknown",
     "image": "insertImage",
     "next": 354,
     "previous": 352
 }
-
 {
     "id": 354,
-    "name": "",
-    "race": "",
-    "gender": "",
-    "residence": "",
-    "occupation": "",
-    "family": "",
+    "name": "Flash Magnus",
+    "race": "Pegasus",
+    "gender": "Male",
+    "residence": "Canterlot, Cloudsdale(formerly)",
+    "occupation": "Drill sergeant of the canterlot royal guard, Member of the Cloudsdale Royal legion(formerly)",
+    "family": "unknown",
     "image": "insertImage",
     "next": 355,
     "previous": 353
 }
 {
     "id": 355,
-    "name": "",
-    "race": "",
-    "gender": "",
-    "residence": "",
-    "occupation": "",
-    "family": "",
+    "name": "Mistmane",
+    "race": "Unicorn",
+    "gender": "Female",
+    "residence": "Crystal Empire, Unnamed village(formerly)",
+    "occupation": "Sorceress, Crystal Empire landscaper",
+    "family": "unknown",
     "image": "insertImage",
     "next": 356,
     "previous": 354
 }
 {
     "id": 356,
-    "name": "",
-    "race": "",
-    "gender": "",
-    "residence": "",
-    "occupation": "",
-    "family": "",
+    "name": "Rockhoof",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Unnamed village at the foot of a volcano",
+    "occupation": "Keeper of Equestrian tales, Member of the Mighty Helm(formerly)",
+    "family": "unknown",
     "image": "insertImage",
     "next": 357,
     "previous": 355
 }
 {
     "id": 357,
-    "name": "",
-    "race": "",
-    "gender": "",
-    "residence": "",
-    "occupation": "",
-    "family": "",
+    "name": "Somnambula",
+    "race": "Pegasus",
+    "gender": "Female",
+    "residence": "Somnambula(place in desert named after her)",
+    "occupation": "MOtivational speaker, Advisor to Prince Hisan(formerly)",
+    "family": "unknown",
     "image": "insertImage",
     "next": 358,
     "previous": 356
 }
 {
     "id": 358,
-    "name": "",
-    "race": "",
-    "gender": "",
-    "residence": "",
-    "occupation": "",
-    "family": "",
+    "name": "Star Swirl the Bearded",
+    "race": "Unicorn",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "Conjurer",
+    "family": "unknown",
     "image": "insertImage",
     "next": 359,
     "previous": 357
 }
+
 {
     "id": 359,
     "name": "",
