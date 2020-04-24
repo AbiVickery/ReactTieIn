@@ -4320,18 +4320,55 @@
 
 {
     "id": 349,
-    "name": "",
-    "race": "",
-    "gender": "",
-    "residence": "",
-    "occupation": "",
-    "family": "",
+    "name": "Nurse Redheart",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Ponyville",
+    "occupation": "Nurse at Ponyville Hospital",
+    "family": "unknown",
     "image": "insertImage",
     "next": 350,
     "previous": 348
 }
 {
-    "id": 0,
+    "id": 350,
+    "name": "Dr. Horse (Doc Top)",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "Pony pediatrician",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 351,
+    "previous": 349
+}
+{
+    "id": 351,
+    "name": "Dr. Fuana (Mane Goodall)",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Equestria",
+    "occupation": "Veterinarian",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 352,
+    "previous": 350
+}
+{
+    "id": 352,
+    "name": "Doctor Horse (Dr. Greymare)",
+    "race": "Unicorn",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "Doctor at Ponyville Hospital",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 353,
+    "previous": 351
+}
+
+{
+    "id": 353,
     "name": "",
     "race": "",
     "gender": "",
@@ -4339,6 +4376,79 @@
     "occupation": "",
     "family": "",
     "image": "insertImage",
-    "next": 0,
-    "previous": 0
+    "next": 354,
+    "previous": 352
+}
+
+{
+    "id": 354,
+    "name": "",
+    "race": "",
+    "gender": "",
+    "residence": "",
+    "occupation": "",
+    "family": "",
+    "image": "insertImage",
+    "next": 355,
+    "previous": 353
+}
+{
+    "id": 355,
+    "name": "",
+    "race": "",
+    "gender": "",
+    "residence": "",
+    "occupation": "",
+    "family": "",
+    "image": "insertImage",
+    "next": 356,
+    "previous": 354
+}
+{
+    "id": 356,
+    "name": "",
+    "race": "",
+    "gender": "",
+    "residence": "",
+    "occupation": "",
+    "family": "",
+    "image": "insertImage",
+    "next": 357,
+    "previous": 355
+}
+{
+    "id": 357,
+    "name": "",
+    "race": "",
+    "gender": "",
+    "residence": "",
+    "occupation": "",
+    "family": "",
+    "image": "insertImage",
+    "next": 358,
+    "previous": 356
+}
+{
+    "id": 358,
+    "name": "",
+    "race": "",
+    "gender": "",
+    "residence": "",
+    "occupation": "",
+    "family": "",
+    "image": "insertImage",
+    "next": 359,
+    "previous": 357
+}
+{
+    "id": 359,
+    "name": "",
+    "race": "",
+    "gender": "",
+    "residence": "",
+    "occupation": "",
+    "family": "",
+    "image": "insertImage",
+    "next": 360,
+    "previous": 358
 }
