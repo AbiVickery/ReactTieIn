@@ -4442,13 +4442,73 @@
 
 {
     "id": 359,
-    "name": "",
-    "race": "",
-    "gender": "",
-    "residence": "",
-    "occupation": "",
-    "family": "",
+    "name": "Princess Platinum",
+    "race": "Unicorn",
+    "gender": "Female",
+    "residence": "Equestria",
+    "occupation": "Princess of the Unicorn tribe",
+    "family": "unknown",
     "image": "insertImage",
     "next": 360,
     "previous": 358
+}
+{
+    "id": 360,
+    "name": "Commander Hurricane",
+    "race": "Pegasus",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "leader of the Pegasus tribe",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 361,
+    "previous": 359
+}
+{
+    "id": 361,
+    "name": "Chancellor Puddinghead",
+    "race": "Earth Pony",
+    "gender": "Male",
+    "residence": "Equestria",
+    "occupation": "Leader of the Earth Pony tribe",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 362,
+    "previous": 360
+}
+{
+    "id": 362,
+    "name": "Clover the Clever",
+    "race": "Unicorn",
+    "gender": "Female",
+    "residence": "Equestria",
+    "occupation": "Platinum's royal advisor, Star Swirl the Bearded's apprencice",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 363,
+    "previous": 361
+}
+{
+    "id": 363,
+    "name": "Private Pansy",
+    "race": "Pegasus",
+    "gender": "Female",
+    "residence": "Equestria",
+    "occupation": "Commander Hurricane's subordinate",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 364,
+    "previous": 362
+}
+{
+    "id": 364,
+    "name": "Smart Cookie",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Equestria",
+    "occupation": "Chancellor Puddinghead's secretary",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 365,
+    "previous": 363
 }
