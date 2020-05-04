@@ -1,8 +1,9 @@
 body {
     background: rgb(253,180,255);
-background: -moz-linear-gradient(180deg, rgba(253,180,255,1) 0%, rgba(192,124,255,1) 62%, rgba(255,124,243,1) 100%);
-background: -webkit-linear-gradient(180deg, rgba(253,180,255,1) 0%, rgba(192,124,255,1) 62%, rgba(255,124,243,1) 100%);
-background: linear-gradient(180deg, rgba(253,180,255,1) 0%, rgba(192,124,255,1) 62%, rgba(255,124,243,1) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fdb4ff",endColorstr="#ff7cf3",GradientType=1);
+    background: -moz-linear-gradient(180deg, rgba(253,180,255,1) 0%, rgba(192,124,255,1) 62%, rgba(255,124,243,1) 100%);
+    background: -webkit-linear-gradient(180deg, rgba(253,180,255,1) 0%, rgba(192,124,255,1) 62%, rgba(255,124,243,1) 100%);
+    background: linear-gradient(180deg, rgba(253,180,255,1) 0%, rgba(192,124,255,1) 62%, rgba(255,124,243,1) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fdb4ff",endColorstr="#ff7cf3",GradientType=1);
+    background-repeat: no-repeat;
     text-align: center;
 }
