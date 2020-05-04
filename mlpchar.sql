@@ -15,9 +15,9 @@ CREATE TABLE characters(
 
 INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Ace Point', 'Earth Pony', 'Male', 'Equestria', 'Tennis Pony', 'unknown',);
 
-INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Amira*', 'Earth Pony', 'Female', 'Saddle Arabia', 'Saddle Arabia Delegate', 'unknown',);
+INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Amira*', 'Earth Pony', 'Female', 'Saddle Arabia', 'Saddle Arabia Delegate', 'unknown');
 
-INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Apple Brown Betty', 'Earth Pony', 'Female', 'Equestria', 'unknown', 'Apple Family',);
+INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Apple Brown Betty', 'Earth Pony', 'Female', 'Equestria', 'unknown', 'Apple Family');
 
 INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Apple Bumpkin', 'Earth Pony', 'Female', 'Equestria', 'unknown', 'Apple Family');
 
@@ -89,7 +89,7 @@ INSERT INTO characters (name, race, gender, residence, occupation, family) value
 
 INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Felix', 'Earth Pony', 'Male', 'Equestria', 'unknown', 'unknown');
 
-INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Fiddly Twang', 'Earth Pony', 'Female', 'Equestria', 'unknown', 'unknown');
+INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Fiddly Twang', 'Earth Pony', 'Female', 'Equestria', 'unknown', 'unknown'); 
 
 INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Florina Tart', 'Earth Pony', 'Female', 'Equestria', 'unknown', 'unknown');
 
@@ -108,3 +108,26 @@ INSERT INTO characters (name, race, gender, residence, occupation, family) value
 INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Haakim', 'Earth Pony', 'Male', 'Saddle Arabia', 'Saddle Arabia Delegate', 'unknown');
 
 INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Half Baked Apple', 'Earth Pony', 'Male', 'Equestria', 'unknown', 'Apple Family');
+
+INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Hughbert Jellius', 'Earth Pony', 'Male', 'Equestria', 'unknown', 'unknown');
+
+INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Jeff Letrotski', 'Earth Pony', 'Male', 'Equestria', 'unknown', 'unknown');
+
+INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Jonagold', 'Earth Pony', 'Female', 'Equestria', 'unknown', 'Apple Family');
+
+INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Lady Gaval', 'Earth Pony', 'Female', 'Equestria', 'Judge', 'unknown');
+
+INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Lavender Bloom', 'Earth Pony', 'Female', 'Equestria', 'unknown', 'unknown');
+
+INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Lavender Fritter', 'Earth Pony', 'Female', 'Equestria', 'unknown', 'unknown');
+
+INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Lilac Links', 'Earth Pony', 'Female', 'Equestria', 'unknown', 'unknown');
+
+INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Lily Valley', 'Earth Pony', 'Female', 'Equestria', 'Florist', 'unknown');
+
+INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Luckette', 'Earth Pony', 'Female', 'Equestria', 'unknown', 'unknown');
+
+INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Lucky Clover', 'Earth Pony', 'Male', 'Ponyville', 'unknown', 'unknown');
+
+INSERT INTO characters (name, race, gender, residence, occupation, family) values ('Lucky Star', 'Earth Pony', 'Female', 'Equestria', 'unknown', 'unknown');
+

@@ -1,7 +1,3 @@
-//     "count": 509,
-
-
-
 {
     "id": 1,
     "name": "Ace Point",
@@ -9,6 +5,7 @@
     "gender": "Male",
     "residence": "Equestria",
     "occupation": "Tennis Pony",
+    "family": "unknown",
     "image": "insertImage",
     "next": 2
 }
@@ -19,6 +16,7 @@
     "gender": "Female",
     "residence": "Saddle Arabia",
     "occupation": "Saddle Arabia delegate",
+    "family": "unknown",
     "image": "insertImage",
     "next": 3,
     "previous": 1
@@ -4511,4 +4509,77 @@
     "image": "insertImage",
     "next": 365,
     "previous": 363
+}
+
+{
+    "id": 365,
+    "name": "Royal guards (E.U.P. Guard)",
+    "race": "Various",
+    "gender": "Male(sometimes Female)",
+    "residence": "Various locations",
+    "occupation": "Militaristic and defense force",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 366,
+    "previous": 364
+}
+{
+    "id": 366,
+    "name": "Mayor Mare",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Ponyville",
+    "occupation": "Mayor of Ponyville",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 367,
+    "previous": 365
+}
+{
+    "id": 367,
+    "name": "Cheerilee",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Ponyville",
+    "occupation": "Teacher at Ponyville Schoolhouse",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 368,
+    "previous": 366
+}
+{
+    "id": 368,
+    "name": "Lotus Blossom",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Ponyville",
+    "occupation": "Beautician",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 369,
+    "previous": 367
+}
+{
+    "id": 369,
+    "name": "Aloe",
+    "race": "Earth Pony",
+    "gender": "Female",
+    "residence": "Ponyville",
+    "occupation": "Beautician",
+    "family": "unknown",
+    "image": "insertImage",
+    "next": 370,
+    "previous": 368
+}
+{
+    "id": 0,
+    "name": "",
+    "race": "",
+    "gender": "",
+    "residence": "",
+    "occupation": "",
+    "family": "",
+    "image": "insertImage",
+    "next": 0,
+    "previous": 0
 }
