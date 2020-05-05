@@ -7,7 +7,14 @@ body {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fdb4ff",endColorstr="#ff7cf3",GradientType=1);
     background-repeat: no-repeat;
     text-align: center;
+    scroll-behavior: smooth;
 }
+
+h1 {
+    size: 75px;
+    text-align: left;
+}
+
 
 .nav {
     display: flex;
