@@ -8,6 +8,7 @@ body {
     background-repeat: no-repeat;
     text-align: center;
     scroll-behavior: smooth;
+    color: #863797;
 }
 
 h1 {
@@ -71,4 +72,24 @@ h1 {
   
   #myBtn:hover {
     background-color: rgb(193, 111, 240); /* Add a dark-grey background on hover */
+  }
+
+  #mane6a {
+      width: auto;
+      height: auto;
+      shape-rendering: crispEdges;
+  }
+
+  #desc {
+      font-size: 23px;
+  }
+
+  .h2a {
+    color: #863797;
+  }
+  .h2b {
+    color: #863797;
+  }
+  .h2c {
+    color: #863797;
   }
