@@ -71,8 +71,14 @@ h1 {
   }
   
   #myBtn:hover {
-    background-color: rgb(193, 111, 240); /* Add a dark-grey background on hover */
+    background-color: rgb(167, 93, 209); /* Add a dark-grey background on hover */
   }
+
+  #mane6a {
+    width: auto;
+    height: auto;
+    shape-rendering: crispEdges;
+}
 
   #logo1 {
       height: 180px;

@@ -72,3 +72,31 @@ h1 {
   #myBtn:hover {
     background-color: rgb(193, 111, 240); /* Add a dark-grey background on hover */
   }
+
+  #mane6a {
+    width: auto;
+    height: auto;
+    shape-rendering: crispEdges;
+}
+
+  .container3 {
+      text-align: center;
+      margin-left: auto;
+      margin-right: auto;
+      width: 960px;
+  }
+  .grid1 {
+      display: inline;
+      margin-left: 10px;
+      margin-right: 10px;
+  }
+
+  #1 {
+    size: 100px;
+  }
+  #2 {
+    size: 100px;
+  }
+  #3 {
+    size: 100px;
+  }
