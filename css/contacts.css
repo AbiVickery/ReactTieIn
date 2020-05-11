@@ -79,6 +79,10 @@ h1 {
     shape-rendering: crispEdges;
 }
 
+#desc2 {
+    font-size: 23px;
+}
+
   .container3 {
       text-align: center;
       margin-left: auto;
@@ -106,6 +110,6 @@ h1 {
           font-size: 58%;
       }
   }
-
-
-  
+  #copyright {
+    size: small;
+}

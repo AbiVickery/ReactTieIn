@@ -93,3 +93,7 @@ h1 {
   .h2c {
     color: #863797;
   }
+
+  #copyright {
+      size: small;
+  }
