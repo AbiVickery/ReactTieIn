@@ -72,6 +72,8 @@ h1 {
   
   #myBtn:hover {
     background-color: rgb(167, 93, 209); /* Add a dark-grey background on hover */
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.25em);
   }
 
   #mane6a {
