@@ -138,6 +138,7 @@ h1 {
   }
   #AppleFritter {
       border-radius: 25%;
+      box-shadow: -7px 11px 12px 3px rgb(75, 24, 85);
   }
   #pLB {
       text-align: left;
@@ -145,6 +146,7 @@ h1 {
   }
   #CherryBerry {
       border-radius: 25%;
+      box-shadow: -7px 11px 12px 3px rgb(75, 24, 85);
   }
   #pLC {
       text-align: left;
@@ -152,6 +154,7 @@ h1 {
   }
   #Haakim {
       border-radius: 25%;
+      box-shadow: -7px 11px 12px 3px rgb(75, 24, 85);
   }
 
   #copyright {
