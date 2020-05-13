@@ -136,13 +136,22 @@ h1 {
       text-align: left;
       font-size: 23px;
   }
+  #AppleFritter {
+      border-radius: 25%;
+  }
   #pLB {
       text-align: left;
       font-size: 23px;
   }
+  #CherryBerry {
+      border-radius: 25%;
+  }
   #pLC {
       text-align: left;
       font-size: 23px;
+  }
+  #Haakim {
+      border-radius: 25%;
   }
 
   #copyright {
@@ -158,8 +167,9 @@ hr {
     overflow: hidden;
     border-style: inset;
     border-width: 0.5px;
+    color: #5d2669;
 }
-hr:hover {
+/* hr:hover {
     display: block;
     unicode-bidi: isolate;
     margin-block-start: 0.5em;
@@ -169,4 +179,4 @@ hr:hover {
     overflow: show;
     border-style: inset;
     border-width: 5px;
-}
+} */
