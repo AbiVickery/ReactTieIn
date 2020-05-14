@@ -127,6 +127,12 @@ h1 {
           font-size: 58%;
       }
   }
+  @media (max-width: 61.25em) {
+    #mane6a {
+      width: 50%;
+      height: 50%;
+    }
+  }
   #copyright {
     size: small;
 }
