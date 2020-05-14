@@ -87,6 +87,12 @@ h1 {
       height: 50%;
     }
   }
+  @media (max-width: 61.25em) {
+    .search {
+      width: 50%;
+      height: 50%;
+    }
+  }
 
   #desc {
       font-size: 23px;
