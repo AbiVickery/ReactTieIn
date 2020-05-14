@@ -140,6 +140,9 @@ h1 {
       border-radius: 25%;
       box-shadow: -7px 11px 12px 3px rgb(75, 24, 85);
   }
+  #AppleFritter:hover {
+      transform: scale(1.02);
+  }
   #pLB {
       text-align: left;
       font-size: 23px;
@@ -148,6 +151,9 @@ h1 {
       border-radius: 25%;
       box-shadow: -7px 11px 12px 3px rgb(75, 24, 85);
   }
+  #CherryBerry:hover {
+      transform: scale(1.02);
+  }
   #pLC {
       text-align: left;
       font-size: 23px;
@@ -155,6 +161,9 @@ h1 {
   #Haakim {
       border-radius: 25%;
       box-shadow: -7px 11px 12px 3px rgb(75, 24, 85);
+  }
+  #Haakim:hover {
+      transform: scale(1.02);
   }
 
   #copyright {
