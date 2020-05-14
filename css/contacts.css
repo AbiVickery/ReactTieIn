@@ -97,14 +97,29 @@ h1 {
       margin-right: 10px;
   }
 
-  #1 {
+  #link1 {
     size: 100px;
   }
-  #2 {
+  #gitt:hover,
+  #gitt:focus {
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.25em);
+  }
+  #link2 {
     size: 100px;
   }
-  #3 {
+  #linkk:hover,
+  #linkk:focus {
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.25em);
+  }
+  #link3 {
     size: 100px;
+  }
+  #codde:hover,
+  #codde:focus {
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.25em);
   }
 
   @media (max-width: 61.25em) {
