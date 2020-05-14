@@ -132,6 +132,12 @@ h1 {
       transform: translate(-50%, -50%);
   }
 
+  #searcher:hover,
+  #searcher:focus {
+    animation: pulse 1s;
+    box-shadow: 0 0 0 2em rgba(#fff,0);
+  }
+
   #pLA {
       text-align: left;
       font-size: 23px;
