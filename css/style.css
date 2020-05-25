@@ -87,6 +87,17 @@ h1 {
       height: 50%;
     }
   }
+  #gtplogo {
+    width: 775px;
+    height: 600px;
+    shape-rendering: crispEdges;
+  }
+  @media (max-width: 61.25em) {
+    #htplogo {
+      width: 25%;
+      height: 25%;
+    }
+  }
   @media (max-width: 61.25em) {
     .search {
       width: 50%;
