@@ -1312,7 +1312,7 @@
     "race": "Pegasus",
     "gender": "Male",
     "residence": "Equestria",
-    "occupation": "Estruction/construction, Police",
+    "occupation": "Destruction/construction, Police",
     "family": "unknown",
     "image": "insertImage",
     "next": 111,
@@ -1437,18 +1437,6 @@
     "image": "insertImage",
     "next": 121,
     "previous": 119
-}
-{
-    "id": 121,
-    "name": "",
-    "race": "",
-    "gender": "",
-    "residence": "",
-    "occupation": "",
-    "family": "",
-    "image": "insertImage",
-    "next": 122,
-    "previous": 120
 }
 {
     "id": 121,
@@ -3074,7 +3062,7 @@
     "gender": "Female",
     "residence": "Sweet Apple Acres",
     "occupation": "unknown",
-    "family": "Apple Family",
+    "family": "Apple Family, Pear Family",
     "image": "insertImage",
     "next": 247,
     "previous": 245
@@ -3130,7 +3118,7 @@
 }
 {
     "id": 251,
-    "name": "Maud Pid (Maudileena Daisy Pie)",
+    "name": "Maud Pie (Maudileena Daisy Pie)",
     "race": "Earth Pony",
     "gender": "Female",
     "residence": "Crystal cave near Ponyville",
@@ -3583,8 +3571,8 @@
     "name": "The Storm King",
     "race": "unknown",
     "gender": "Male",
-    "residence": "'The lands beyond Equestria', antagonist",
-    "occupation": "Conqueror",
+    "residence": "'The lands beyond Equestria'",
+    "occupation": "Conqueror, antagonist",
     "family": "unknown",
     "image": "insertImage",
     "next": 289,
@@ -3633,7 +3621,7 @@
     "race": "Unicorn",
     "gender": "Female",
     "residence": "Equestria",
-    "occupation": "Traveling magician",
+    "occupation": "Traveling Magician",
     "family": "unknown",
     "image": "insertImage",
     "next": 293,
@@ -4269,7 +4257,7 @@
 }
 {
     "id": 345,
-    "name": "SIlver Zoom",
+    "name": "Silver Zoom",
     "race": "Pegasus",
     "gender": "Male",
     "residence": "Equestria",
@@ -4419,7 +4407,7 @@
     "race": "Pegasus",
     "gender": "Female",
     "residence": "Somnambula(place in desert named after her)",
-    "occupation": "MOtivational speaker, Advisor to Prince Hisan(formerly)",
+    "occupation": "Motivational speaker, Advisor to Prince Hisan(formerly)",
     "family": "unknown",
     "image": "insertImage",
     "next": 358,
@@ -4478,9 +4466,9 @@
     "id": 362,
     "name": "Clover the Clever",
     "race": "Unicorn",
-    "gender": "Female",
+    "gender": "Male",
     "residence": "Equestria",
-    "occupation": "Platinum's royal advisor, Star Swirl the Bearded's apprencice",
+    "occupation": "Platinum's royal advisor, Star Swirl the Bearded's apprentcice",
     "family": "unknown",
     "image": "insertImage",
     "next": 363,
@@ -4583,3 +4571,4 @@
     "next": 0,
     "previous": 0
 }
+
